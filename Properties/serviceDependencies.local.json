@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:Satmari_Sandra_Medeea_Lab2Context"
+    }
+  }
+}
